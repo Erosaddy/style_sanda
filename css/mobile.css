@@ -2,4 +2,22 @@
 
 @media screen and (max-width: 600px) {
 
+.cf {
+    width: 100vw;
+    height: auto;
+}
+
+.cf img {
+    width: 100%;
+}
+
+.poster {
+    width: 100vw;
+    height: auto;
+}
+
+.poster img {
+    width: 400px;
+}
+
 }
